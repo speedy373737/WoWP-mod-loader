@@ -8,7 +8,7 @@
 # WoWP mod loader
 
 ## Download
-[Download the latest version here](https://github.com/speedy373737/CustomQueueBackgrounds/releases/latest/download/CustomQueueBackgrounds.zip)
+[Download the latest version here](https://github.com/speedy373737/WoWP-mod-loader/releases/latest/download/WoWP_mod_loader.zip)
 
 ## Installation
 1. Download the ZIP file from above.
